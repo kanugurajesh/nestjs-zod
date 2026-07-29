@@ -1,0 +1,10 @@
+sources:
+  - test:
+      - openapi.json
+
+examples:
+  - specmatic-examples
+
+test:
+  resiliencyTests:
+    enable: all
